@@ -1,0 +1,12 @@
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\bin\Debug\net6.0\Pwi.Church.Core.deps.json
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\bin\Debug\net6.0\Pwi.Church.Core.dll
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\bin\Debug\net6.0\Pwi.Church.Core.pdb
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Core.sourcelink.json
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Pwi.Church.Core.dll
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\refint\Pwi.Church.Core.dll
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\Pwi.Church.Core.pdb
+C:\Users\ihors\source\repos\onion-architecture\ChurchBulletin\Core\obj\Debug\net6.0\ref\Pwi.Church.Core.dll
