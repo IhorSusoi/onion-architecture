@@ -14,7 +14,7 @@ namespace UnitTests
         public void Test1()
         {
             var class1 = new Class1();
-            class1.ShouldBeNull();
+            class1.ShouldNotBeNull();
         }
     }
 }
