@@ -7,6 +7,8 @@
 
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
+    <AssemblyName>ProgrammingWithIhors.ChurchBulletin.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>ProgrammingWithIhors.ChurchBulletin.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
