@@ -28,6 +28,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "arch", "arch", "{02EA681E-C
 		..\arch\SolutionStructure.png = ..\arch\SolutionStructure.png
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{D3C7BBBE-2707-4349-B577-C72D30F3382C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTests", "IntegrationTests\IntegrationTests.csproj", "{F8AF2C73-A7A7-4752-A229-A9565D7FCB67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +46,14 @@ Global
 		{9DE44003-9573-4D7E-B593-5FF88EEBFDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE44003-9573-4D7E-B593-5FF88EEBFDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE44003-9573-4D7E-B593-5FF88EEBFDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C7BBBE-2707-4349-B577-C72D30F3382C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C7BBBE-2707-4349-B577-C72D30F3382C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C7BBBE-2707-4349-B577-C72D30F3382C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C7BBBE-2707-4349-B577-C72D30F3382C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AF2C73-A7A7-4752-A229-A9565D7FCB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AF2C73-A7A7-4752-A229-A9565D7FCB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AF2C73-A7A7-4752-A229-A9565D7FCB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AF2C73-A7A7-4752-A229-A9565D7FCB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
